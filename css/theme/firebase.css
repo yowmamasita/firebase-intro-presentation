@@ -1,6 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
 @font-face {
-  font-family: 'Gotham Thin';
-  src: url("font/Gotham-Thin.otf") format("opentype"); }
+  font-family: 'Lato', sans-serif; }
 .text-discs {
   color: #fec324 !important; }
 
@@ -164,8 +164,8 @@ pre.code-example.isActive code.code-example {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #322f31;
-  background-color: #322f31; }
+  background: #154a75;
+  background-color: #154a75; }
 
 .reveal {
   font-family: "Gotham Thin", Arial;

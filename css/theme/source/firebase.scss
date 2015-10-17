@@ -3,10 +3,10 @@
 @import "../template/mixins";
 @import "../template/settings";
 // ---------------------------------------------
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
 @font-face {
-  font-family: 'Gotham Thin';
-  src: url("font/Gotham-Thin.otf") format("opentype");
+  font-family: 'Lato', sans-serif;
 }
 
 $white: #ffffff;
@@ -45,7 +45,7 @@ $brand-danger: $rebel;
 // overridden by the super-theme
 
 // Background of the presentation
-$backgroundColor: $slate;
+$backgroundColor: $slate-dark;
 
 // Primary/body text
 $mainFont: $font;
