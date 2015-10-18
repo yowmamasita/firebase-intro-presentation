@@ -31,7 +31,7 @@ $ bower install                          # uses bower for polymer dependency
 To build the slide deck and run the test suite:
 
 ```bash
-$ grunt
+$ grunt --force
 ```
 
 To open the slide deck using a local web server:
